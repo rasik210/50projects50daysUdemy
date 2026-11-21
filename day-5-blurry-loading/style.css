@@ -1,0 +1,21 @@
+
+img {
+  display: block;
+  filter: blur(100px);
+  width: 100%;
+  height: 100vh;
+}
+
+htnl, body {
+    margin: 0;
+    padding: 0;
+}
+
+span{
+  position: absolute;
+  left: 47%;
+  top: 45%;
+  color: white;
+  font-size: xxx-large;
+  font-weight: bold;
+}
